@@ -1,0 +1,6 @@
+[submodule "cmake"]
+	path = cmake
+	url = git://cmake.org/cmake.git
+[submodule "libvpx"]
+	path = libvpx
+	url = https://chromium.googlesource.com/webm/libvpx
